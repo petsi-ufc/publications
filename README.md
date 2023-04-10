@@ -1,0 +1,10 @@
+# Publicações
+
+* SOUSA, Paulo Miranda e Silva; COSTA, José Robertty de Freitas; SILVA, Gustavo Ivens Oliveira; LIMA, Victor de Souza; TAVARES, Wladimir Araújo; BEZERRA, Carla Ilane Moreira. Preparação para Olimpíada Brasileira de Informática Nível Sênior: Um Relato de Experiência. In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 29. , 2021, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 101-110. ISSN 2595-6175. DOI: https://doi.org/10.5753/wei.2021.15901.
+
+* SILVA, Maria Erilane L. da; GAMA, Anny Alice L.; PINHEIRO, Francisco Victor da S.; BEZERRA, Carla I. M.; TAVARES, Wladimir A.; OLIVEIRA, Paulo de Tarso G.. A Experiência do Letramento Digital para Professores Municipais do Ensino Básico Durante a Pandemia COVID-19. In: WORKSHOP DE INFORMÁTICA NA ESCOLA(WIE 2021), 27. , 2021, On-line. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 171-180. DOI: https://doi.org/10.5753/wie.2021.218218.
+
+* PINHEIRO, Francisco Victor da S.; LIMA, Ronier da S.; FERREIRA, Ana kely L.; LIMA, Francisco Victor S. de; TAVARES, Wladimir Araújo. Programa de Educação Tutorial: Uma Análise Retrospectiva das Ações Realizadas para Auxiliar na Formação Pessoal e Profissional dos Alunos do Curso de Sistemas de Informação. In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 30. , 2022, Niterói. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2022 . p. 61-72. ISSN 2595-6175. DOI: https://doi.org/10.5753/wei.2022.223183.
+
+* Tavares, Wladimir A.; Silva, Abner E. M.; Bezerra, Ana Karine Nobre; Ferreira, Ana Kelly L.;Melo Júnior, Antônio E. T. de,; Mesquita, Camila Belmont;Costa, Dayana P. N. F.; Holanda, Douglas da Silva; Pinheiro, Francisco V. S. Lima; Francisco V. S de; Pinho, Getúlio Macedo; Oliveira, Letícia Pinheiro de; Silva, Michel Oliveira; Lima, Ronier da Silva; Lima, Vanessa de Oliveira; PET-SI - um oásis no sertão central In: Andrade, Francisco Ari de, Ribeiro, Ana Paula de Medeiros, Machado, Janaína G. M. da S., Pinheiro, Valdênia Ferreira; Programa de Educação Tutorial - PET-UFC: Ciência e Tecnologia: enfrentando os desafios regionais; Editora CRV, 2023
+
